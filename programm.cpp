@@ -1,5 +1,5 @@
 //файл program.cpp
-#include "stdafx.h"
+#include "funcs.h"
 #include <iostream>
 using namespace std;
 
